@@ -1,5 +1,3 @@
-# Dumelang/Hey, I'm Junior:)
-
 Electronics Engineering student passionate about intelligent systems and technology.
 
 I have a strong interest in programming, system integration, machine learning, embedded systems, and web development. I enjoy exploring how software and hardware can work together to create practical and impactful solutions.
